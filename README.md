@@ -20,7 +20,8 @@ Open the lib.scss file under your_project_folder/theme/styles/sass and under the
 to include the _animate.scss file partial into the outputed css file
 
 ## Basic usage
-The Animate classes are best used when you want to animate elements in or out from the screen. Below are some quick instructions on how to use them on your project.
+The Animate classes are best used when you want to animate elements in or out from the screen. Below are some quick instructions on how to use them on your project.   
+
 1. Add the class `animated` to the element you want to animate. You may also want to include the class
 `infinite` for an infinite loop.  
 2. You will also need to add one a class like `bounce` to define how ypu want the element to animate
