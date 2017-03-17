@@ -11,7 +11,7 @@ Here are the steps to incorporate this file into your project.
 
 
 ### Step 1
-Copy and paste the _entypo.scss file into the following folder your_project_folder/theme/styles/sass/lib/components
+Copy and paste the _animate.scss file into the following folder your_project_folder/theme/styles/sass/lib/components
 ### Step 2
 Open the lib.scss file under your_project_folder/theme/styles/sass and under the bottom add the following line:
 ```
